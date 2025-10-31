@@ -1,5 +1,7 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
 
+# BOOLEAN_FUNCTION_MINIMIZATION
+# NAME : B V REVANTH KUMAR
+# REG NO: 212224240023
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -43,10 +45,13 @@ Developed by: RegisterNumber:*/
 **Output:**
 
 **RTL**
+![rtl2 1](https://github.com/user-attachments/assets/6ab442d8-f73f-429a-baf1-eab83676ff3b)
+![rtl2 2](https://github.com/user-attachments/assets/cc69ac06-6849-4c69-914a-94ca9c45097b)
+![wave2 1](https://github.com/user-attachments/assets/8f3037b9-a290-4c00-93a1-d2f1c8200589)
+![wave2 2](https://github.com/user-attachments/assets/5d1f435f-0f52-417e-8798-d04a58fbdb6f)
 
 **Timing Diagram**
 
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
-
